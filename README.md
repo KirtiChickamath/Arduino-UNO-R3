@@ -24,6 +24,6 @@ This project is inspired by the (https://www.youtube.com/watch?v=JppDLGh5hUs&lis
 ### Schematic
 ![ATmega 16U2](https://github.com/KirtiChickamath/Arduino-UNO-R3/blob/main/Images/PNG/ATMega%2016U2-Mu.png)
 ![ATmega328P](https://github.com/KirtiChickamath/Arduino-UNO-R3/blob/main/Images/PNG/ATMega328P.png)
-![Connectors)(https://github.com/KirtiChickamath/Arduino-UNO-R3/blob/main/Images/PNG/Connectors.png)
+![Connectors](https://github.com/KirtiChickamath/Arduino-UNO-R3/blob/main/Images/PNG/Connectors.png)
 ### PCB Layout
 ![Layout](https://github.com/KirtiChickamath/Arduino-UNO-R3/blob/main/Images/PNG/Lyout.png)
