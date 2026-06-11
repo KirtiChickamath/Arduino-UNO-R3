@@ -7,7 +7,7 @@ This project is a complete 4-layer PCB redesign of the Arduino UNO R3
 
 **Software Used:** Altium
 
-This project is inspired by the [RGB LED Matrix Controller from Cal Poly iDesign](https://idesign.calpoly.edu/student-projects/rgb-led-matrix-controller)
+This project is inspired by the (https://www.youtube.com/watch?v=JppDLGh5hUs&list=PLhzgb9TEt7AXkJYzJQ6IhN_OXhj9bZ_wQ)
 
 ## Features
 
